@@ -1,4 +1,6 @@
-ndles I/O, writing and reading, of JSON for storage of all class instances
+#!/usr/bin/python3
+"""
+Handles I/O, writing and reading, of JSON for storage of all class instances
 """
 import json
 from models import base_model, amenity, city, place, review, state, user

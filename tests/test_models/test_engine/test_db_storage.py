@@ -1,4 +1,6 @@
-t Test for BaseModel Class
+#!/usr/bin/python3
+"""
+Unit Test for BaseModel Class
 """
 import unittest
 from datetime import datetime
